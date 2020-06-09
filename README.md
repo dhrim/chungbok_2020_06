@@ -3,4 +3,4 @@
 - DNN as classifier : [dnn_as_a_classifier.ipynb](material/dnn_as_a_classifier.ipynb)
     - IRIS classfication : [dnn_iris_classification.ipynb](material/dnn_iris_classification.ipynb)
     - MNIST classification : [dnn_mnist.ipynb](material/dnn_mnist.ipynb)
-    - CNN MNIST classificatino : [cnn_mnist.ipynb](mateiral/cnn_mnist.ipynb)
+    - CNN MNIST classificatino : [cnn_mnist.ipynb](material/cnn_mnist.ipynb)
