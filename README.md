@@ -6,3 +6,5 @@
     - IRIS classfication : [dnn_iris_classification.ipynb](material/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/chungbuk_2020_06/blob/master/material/dnn_iris_classification.ipynb)
     - MNIST classification : [dnn_mnist.ipynb](material/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/chungbuk_2020_06/blob/master/material/dnn_mnist.ipynb)
     - CNN MNIST classificatino : [cnn_mnist.ipynb](material/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/chungbuk_2020_06/blob/master/material/cnn_mnist.ipynb)
+
+- 알파고 이해하기 : [알파고_학습_이해하기.pdf](material/알파고_학습_이해하기.pdf)
